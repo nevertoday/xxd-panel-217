@@ -1,6 +1,6 @@
 <div align="center">
 
-# XXD Panel 217｜摄影与数码混合媒介拼贴海报
+# XXD Panel 217｜明快数码混合媒介拼贴
 
 把普通照片重新导演成可独立使用的艺术海报；保留主体记忆点，让材质、构图与留白共同工作。
 
@@ -10,24 +10,23 @@
 
 ## 样张展示
 
-本批按节约算力要求完成封装，未调用图像模型、未生成示例图片。已检查原稿、链接和运行脚本；真实生图效果尚未验收。以下为调用示例，不是已生成的作品。
+已生成并检查 8 张示例：前 4 张为横版左右对照，后 4 张为竖版上下对照。
 
-[样张制作与验收流程](references/sample-workflow.md) · [样张清单](references/samples.json)
+[Sample manifest](references/samples.json)
 
-### 样张文件
+![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png)
 
-| sample-01 | sample-02 | sample-03 | sample-04 |
-|---|---|---|---|
-| ![sample-01](assets/examples/sample-01.png) | ![sample-02](assets/examples/sample-02.png) | ![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png) |
-| sample-05 | sample-06 | sample-07 | sample-08 |
-|---|---|---|---|
-| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+![sample-03](assets/examples/sample-03.png) | ![sample-04](assets/examples/sample-04.png)
+
+![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png)
+
+![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png)
 
 ## 适用场景与解决的问题
 
 适合个人摄影整理、独立出版、展览练习和生活方式视觉创作。原图构图普通、背景杂乱或主体偏小，也可以通过删减、重组、裁切和尺度变化重新建立重点，而不是把照片套上滤镜。
 
-整体呈现 **Tiny focal element / Expansive negative space / Warm neutral field / Sparse color accents** 的视觉气质：极小主体、巨大留白、低密度图文、单色印刷块与纸张颗粒共同构成安静、文学、克制、诗意而高级的独立出版物视觉。
+整体呈现**真实摄影剪贴、手绘涂鸦、纸张拼贴、尺度错置、大面积留白与编辑式图文混排**共同构成的高级混合媒介视觉。无论主体是人物、建筑、动物、植物、器物、食物、交通工具或自然景观，都应保留清晰身份与原始叙事，同时通过重新剪辑与视觉隐喻获得新的表达。避免完整转绘、素材堆满、普通相框拼贴、卡通化、复杂UI、过度拟物阴影和模板化商业海报。
 
 ## 原始提示词
 
@@ -43,7 +42,7 @@
 
 ## 成品中最容易识别的特点
 
-整体呈现 **Tiny focal element / Expansive negative space / Warm neutral field / Sparse color accents** 的视觉气质：极小主体、巨大留白、低密度图文、单色印刷块与纸张颗粒共同构成安静、文学、克制、诗意而高级的独立出版物视觉。避免主体过大、画面填满、多焦点、复杂背景、商业海报布局、装饰堆砌和模板化极简设计。
+整体呈现**真实摄影剪贴、手绘涂鸦、纸张拼贴、尺度错置、大面积留白与编辑式图文混排**共同构成的高级混合媒介视觉。无论主体是人物、建筑、动物、植物、器物、食物、交通工具或自然景观，都应保留清晰身份与原始叙事，同时通过重新剪辑与视觉隐喻获得新的表达。避免完整转绘、素材堆满、普通相框拼贴、卡通化、复杂UI、过度拟物阴影和模板化商业海报。
 
 ## 四种输出模式
 
