@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 217｜Bright Digital Mixed-Media Collage: keeps the photo's main subject as a real photographic cut-out and rebuilds the story around it with clipped fragments, hand-drawn doodles, line drawings, paper scraps and labels — cropped, enlarged, floating or offset, often with playful scale tricks such as tiny figures beside a giant subject or lines running over the real object — in bright, clean colours lifted from the photo (sky blue, lake teal, fresh green, warm yellow, coral, peach), with generous warm-white space and loose, naive handwritten lettering. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-217 or asks for photo cut-out collage with doodles, scrapbook or bright mixed-media editorial looks from a photo.",
+  "short_description": "明快数码混合媒介拼贴：把照片主体抠出来，配手绘涂鸦和纸片拼成明快的杂志拼贴",
+  "zh-CN": {
+    "name": "明快数码混合媒介拼贴",
+    "tagline": "把照片主体抠出来，配上手绘涂鸦和纸片，拼成一张明快的杂志拼贴。",
+    "look": "照片主体被抠出来，保留真实的摄影质感，其余用局部剪贴素材、手绘涂鸦、线稿、纸片和标签重新拼贴，可以裁切、放大、悬浮或错位。常有尺度上的小巧思：小人和巨大的主体互动，线稿越过真实物体，手绘结构从照片边缘延伸出去。颜色取照片里最明亮的部分并提亮，如天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，配大片纯净暖白。文字是松弛稚拙的手写字，写在纸片上或穿插在线条之间，偶尔配一点细瘦的编辑字。",
+    "traits": [
+      "摄影抠图拼贴",
+      "手绘涂鸦",
+      "尺度错置",
+      "明快治愈色",
+      "手写字"
+    ],
+    "good": [
+      "主体能干净抠出来的照片：一个人、一只狗、一杯咖啡、一辆单车",
+      "带一点故事的日常片段：旅行、野餐、遛狗、逛市集",
+      "想做手账页、社交封面或生活方式品牌主视觉的照片"
+    ],
+    "poor": [
+      "主体和背景糊在一起、很难抠出来的照片：浓雾、昏暗夜景、密集人群",
+      "需要严肃、正式、色调统一的商业或公文用图",
+      "想要整张转绘、卡通化或规整相框拼贴的需求"
+    ]
+  },
+  "en": {
+    "name": "Bright Digital Mixed-Media Collage",
+    "tagline": "Cuts out the photo's subject and builds a bright magazine collage around it with doodles and paper scraps.",
+    "look": "The main subject is cut out of your photo and keeps its real photographic texture, while clipped fragments, hand-drawn doodles, line drawings, paper scraps and labels are collaged around it, cropped, enlarged, floating or slightly offset. There are often small tricks of scale: tiny figures interacting with a giant subject, lines running across the real object, drawn structures extending past the edge of the photo. Colours come from the brightest parts of the photo and are lifted further, such as sky blue, lake teal, fresh green, warm yellow, coral and peach, set against plenty of clean warm white. Text is loose, slightly clumsy handwriting on paper scraps or between the lines, sometimes paired with a little slim editorial type.",
+    "traits": [
+      "Photo cut-out collage",
+      "Hand-drawn doodles",
+      "Playful scale shifts",
+      "Bright cheerful colour",
+      "Handwritten lettering"
+    ],
+    "good": [
+      "Photos where the subject cuts out cleanly: a person, a dog, a cup of coffee, a bicycle",
+      "Everyday moments with a little story: travel, a picnic, walking the dog, a market visit",
+      "Photos you want as a journal spread, a social media cover or a lifestyle brand visual"
+    ],
+    "poor": [
+      "Photos where subject and background blur together: thick fog, dim night scenes, dense crowds",
+      "Images that must look serious, formal or uniformly toned for business or official use",
+      "Requests for a full redraw, a cartoon look or a neat framed-photo collage"
+    ]
+  },
+  "ja": {
+    "name": "明るいデジタル混合メディアコラージュ",
+    "tagline": "写真の主役を切り抜き、手描きの落書きや紙片と組み合わせて明るい雑誌風コラージュにします。",
+    "look": "写真の主役を切り抜き、本物の写真の質感を残します。まわりには切り取った素材、手描きの落書き、線画、紙片、ラベルをコラージュし、切ったり、拡大したり、浮かせたり、ずらしたりします。小さな人物が大きな主役と関わる、線画が本物の物の上を横切る、手描きの構造が写真の縁から伸びるといった、スケールの遊びがよく入ります。色は写真のいちばん明るい部分から取ってさらに明るくし、空色、湖の青緑、若草色、暖かい黄、コーラル、ピーチなどを、たっぷりの暖かな白と合わせます。文字はゆるく素朴な手書きで、紙片の上や線のあいだに書かれ、細身の編集書体が少し添えられることもあります。",
+    "traits": [
+      "写真の切り抜きコラージュ",
+      "手描きの落書き",
+      "スケールのずらし",
+      "明るく癒やされる色",
+      "手書き文字"
+    ],
+    "good": [
+      "主役をきれいに切り抜ける写真：人物、犬、一杯のコーヒー、自転車",
+      "少し物語のある日常：旅行、ピクニック、犬の散歩、市場めぐり",
+      "手帳のページ、SNSのカバー、ライフスタイルブランドのビジュアルにしたい写真"
+    ],
+    "poor": [
+      "主役と背景が溶け合って切り抜きにくい写真：濃い霧、暗い夜景、密集した人混み",
+      "真面目でフォーマルな、色調のそろった業務用や公的な画像",
+      "全体の描き直し、アニメ風、きちんとした写真フレームのコラージュを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "밝은 디지털 혼합 매체 콜라주",
+    "tagline": "사진의 주인공을 오려내 손그림 낙서와 종이 조각을 더해 밝은 잡지풍 콜라주로 만듭니다.",
+    "look": "사진의 주인공을 오려내 실제 사진의 질감을 그대로 남기고, 주변은 잘라낸 소재, 손그림 낙서, 선화, 종이 조각, 라벨로 다시 콜라주하며 자르고 키우고 띄우고 어긋나게 둡니다. 작은 인물이 거대한 주인공과 어울리거나, 선화가 실제 사물을 가로지르거나, 손으로 그린 구조가 사진 가장자리 밖으로 뻗어 나가는 식의 크기 장난이 자주 들어갑니다. 색은 사진에서 가장 밝은 부분을 골라 더 밝게 다듬은 하늘색, 호수 청록, 연두, 따뜻한 노랑, 산호색, 복숭아색이며, 넓은 깨끗한 웜화이트와 함께 씁니다. 글자는 느슨하고 서툰 손글씨로 종이 조각 위나 선 사이에 쓰고, 가는 편집 서체를 조금 곁들이기도 합니다.",
+    "traits": [
+      "사진 오려내기 콜라주",
+      "손그림 낙서",
+      "크기 어긋남",
+      "밝고 산뜻한 색",
+      "손글씨"
+    ],
+    "good": [
+      "주인공을 깔끔하게 오려낼 수 있는 사진: 사람, 강아지, 커피 한 잔, 자전거",
+      "작은 이야기가 있는 일상: 여행, 피크닉, 강아지 산책, 시장 구경",
+      "다이어리 페이지, SNS 커버, 라이프스타일 브랜드 비주얼로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "주인공과 배경이 뒤섞여 오려내기 어려운 사진: 짙은 안개, 어두운 야경, 빽빽한 인파",
+      "진지하고 격식 있으며 색조가 통일되어야 하는 업무용이나 공문용 이미지",
+      "전체를 다시 그리거나 만화풍, 반듯한 사진 액자 콜라주를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "كولاج رقمي مشرق متعدد الوسائط",
+    "tagline": "يقصّ العنصر الرئيسي من الصورة ويبني حوله كولاجاً مشرقاً بأسلوب المجلات من رسوم عفوية وقصاصات ورق.",
+    "look": "يُقصّ العنصر الرئيسي من صورتك ويحتفظ بملمسه الفوتوغرافي الحقيقي، وتُلصق حوله مقتطفات مقصوصة ورسوم يدوية عفوية وخطوط وقصاصات ورق وملصقات صغيرة، مقتطعة أو مكبّرة أو طافية أو منزاحة قليلاً. وكثيراً ما تظهر ألعاب مرحة بالمقياس: أشخاص صغار يتفاعلون مع عنصر ضخم، أو خطوط تعبر فوق الشيء الحقيقي، أو بنى مرسومة تمتد خارج حافة الصورة. تُؤخذ الألوان من أكثر أجزاء الصورة إشراقاً وتُفتّح أكثر، مثل أزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الدافئ والمرجاني والخوخي، مع مساحات واسعة من الأبيض الدافئ النقي. والنص خط يد عفوي مرتخٍ على القصاصات أو بين الخطوط، وقد يرافقه قليل من خط تحريري رفيع.",
+    "traits": [
+      "كولاج بقصاصات الصور",
+      "رسوم يدوية عفوية",
+      "تلاعب بالمقياس",
+      "ألوان مشرقة مبهجة",
+      "خط يد"
+    ],
+    "good": [
+      "صور يمكن قصّ عنصرها بوضوح: شخص، كلب، فنجان قهوة، دراجة",
+      "لحظات يومية فيها شيء من الحكاية: سفر، نزهة، تنزيه الكلب، جولة في سوق",
+      "صور تريدها صفحة يوميات أو غلافاً لوسائل التواصل أو صورة رئيسية لعلامة أسلوب حياة"
+    ],
+    "poor": [
+      "صور يذوب فيها العنصر في الخلفية: ضباب كثيف، مشاهد ليلية معتمة، حشود متراصّة",
+      "صور يجب أن تبدو جادة ورسمية بلون موحّد للاستخدام التجاري أو الرسمي",
+      "طلب إعادة رسم كاملة أو مظهر كرتوني أو كولاج مرتب داخل إطارات صور"
+    ]
+  }
+}
